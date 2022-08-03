@@ -1,0 +1,3 @@
+result: first text second text
+result: first text second text
+result: first text second text
